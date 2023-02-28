@@ -110,7 +110,11 @@
     <systemPath>${JAVA_HOME}/lib/tools-1.5.0.jar</systemPath>
   </dependency>
   
-
+<dependency>
+  <groupId>com.github.olivergondza</groupId>
+  <artifactId>maven-jdk-tools-wrapper</artifactId>
+  <version>0.1</version>
+</dependency>
 		<!-- https://mvnrepository.com/artifact/commons-io/commons-io -->
 		
 
