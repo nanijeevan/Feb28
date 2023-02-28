@@ -198,12 +198,7 @@
           <version>3.0.0</version>
         </plugin>
         
-        <plugin>
-					<groupId>com.github.ferstl</groupId>
-					<artifactId>depgraph-maven-plugin</artifactId>
-					<version>4.0.1</version>
-					<configuration></configuration>
-				</plugin>
+     
 				<!-- -->			
 				
 			</plugins>
